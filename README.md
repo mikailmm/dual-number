@@ -4,6 +4,7 @@ This project is an exercise of using Git and GitHub and also using Python's magi
 - Addition and subtraction
 - Multiplication
 
+## Example
 ```
 from dual_number import Dual
 a = Dual(3, 1)
